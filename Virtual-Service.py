@@ -50,3 +50,5 @@ while True:
                 print('Something went wrong. Try again.')
             else:
                 print(f'Loan of ${insert}.00 successfully completed.')
+
+# I'll finish this code lol
