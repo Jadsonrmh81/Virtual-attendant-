@@ -51,4 +51,4 @@ while True:
             else:
                 print(f'Loan of ${insert}.00 successfully completed.')
 
-# I'll finish this code lol
+# still in development
